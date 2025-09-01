@@ -71,6 +71,4 @@ Integration with machine learning for material property prediction
 DUDEKULA USMAN
 Linkdln:- https://www.linkedin.com/in/dudekula-usman-0225a527b/
 
-LinkedIn: your-linkedin
 
-GitHub: your-username
